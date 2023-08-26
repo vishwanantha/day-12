@@ -1,0 +1,16 @@
+
+.welcome{
+    width: 1350px;
+    height: 1550px;
+    background-image: url("https://coffee.alexflipnote.dev/random");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.welcome2{
+    text-align: center;
+
+    padding-top: 500px;
+    color: red;
+}
